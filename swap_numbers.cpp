@@ -15,3 +15,8 @@ int main() {
 
     return 0;
 }
+
+//output
+// Before swapping: a = 2, b = 3
+// After swapping: a = 3, b = 2
+// sarthak@192 CPP % 
